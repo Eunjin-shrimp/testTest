@@ -6,6 +6,7 @@ public class test111 {
 		System.out.println("hahahahhahahahahaha");
 		System.out.println("gigigigigigigi");
 		System.out.println("hihihihihihi");
+		System.out.println("되는건가안되는건가");
 	}
 
 }
